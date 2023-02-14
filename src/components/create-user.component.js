@@ -11,6 +11,7 @@ export default class CreateUser extends Component {
     this.state = {
       username: ''
     }
+    
   }
 
   onChangeUsername(e) {
